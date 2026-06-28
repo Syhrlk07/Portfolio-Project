@@ -1,2 +1,2 @@
-# Portofolio-Project
-This is test text
+# Portfolio-Project
+Some tools that i installed: Cursor IDE, GithubDesktop, Git, Claude Code.
