@@ -107,3 +107,31 @@ Craig Taylor is a B2B demand generation specialist and CEO of ROMI, a consultanc
 ### Annotation
 
 The collected materials focus on modern demand generation strategies that help B2B organizations identify high-intent buyers earlier in the purchasing journey. Craig frequently discusses buyer intent signals, CRM enrichment, visitor identification, and the importance of aligning sales and marketing around actionable customer data. Rather than relying solely on traditional lead generation, his content emphasizes improving pipeline quality through stronger intent intelligence, faster outreach, and more efficient revenue operations.
+---
+
+## Expert #5 — Brendan Hufford
+
+- **Name:** Brendan Hufford
+- **Platform:** LinkedIn
+- **Role:** SaaS Marketing | Content, AEO & SEO Strategist
+- **Profile:** https://www.linkedin.com/in/brendanhufford
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Brendan Hufford shares practical frameworks for building sustainable content marketing systems in SaaS. His content focuses on connecting social visibility, search discoverability, and relationship-driven channels into one unified growth engine. His perspective is valuable for understanding how B2B SaaS companies can create consistent demand without relying on large teams, large budgets, or isolated campaigns.
+
+### Research Topics Collected
+
+- Content Strategy Framework
+- SEO
+- Answer Engine Optimization (AEO)
+- Social Media Marketing
+- Newsletter Marketing
+- Audience Building
+- B2B Content Marketing
+- Content Distribution
+
+### Annotation
+
+The collected LinkedIn post explains Brendan's three-pillar content framework: Virality, Discovery, and Relationship. He argues that social content creates awareness, SEO and AEO capture existing demand, and newsletters or long-form content build long-term audience trust. Rather than treating these channels as separate marketing functions, Brendan emphasizes integrating them into a content system that supports visibility, demand generation, and customer relationships over time.
