@@ -67,7 +67,7 @@ The collected posts focus on practical challenges faced by modern content teams,
 
 ### Why Selected
 
-Ross Simmonds is one of the leading voices in B2B content marketing, content distribution, and AI-driven search visibility. His research and educational content focus on how modern buyers discover information through YouTube, Reddit, Google Search, and AI assistants. His practical frameworks help B2B SaaS companies build long-term organic growth by combining content strategy, community engagement, and search optimization. :contentReference[oaicite:0]{index=0}
+Ross Simmonds is one of the leading voices in B2B content marketing, content distribution, and AI-driven search visibility. His research and educational content focus on how modern buyers discover information through YouTube, Reddit, Google Search, and AI assistants. His practical frameworks help B2B SaaS companies build long-term organic growth by combining content strategy, community engagement, and search optimization.
 
 ### Research Topics Collected
 
@@ -80,4 +80,4 @@ Ross Simmonds is one of the leading voices in B2B content marketing, content dis
 
 ### Annotation
 
-The collected materials include two LinkedIn posts and one YouTube transcript discussing YouTube optimization, Reddit's growing influence on AI-powered search, and community-driven content strategies. Rather than focusing on short-term marketing tactics, Ross emphasizes building authoritative content ecosystems that improve discoverability across search engines, AI assistants, and social platforms while generating qualified B2B pipeline over time. :contentReference[oaicite:1]{index=1}
+The collected materials include two LinkedIn posts and one YouTube transcript discussing YouTube optimization, Reddit's growing influence on AI-powered search, and community-driven content strategies. Rather than focusing on short-term marketing tactics, Ross emphasizes building authoritative content ecosystems that improve discoverability across search engines, AI assistants, and social platforms while generating qualified B2B pipeline over time.
