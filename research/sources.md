@@ -135,3 +135,31 @@ Brendan Hufford shares practical frameworks for building sustainable content mar
 ### Annotation
 
 The collected LinkedIn post explains Brendan's three-pillar content framework: Virality, Discovery, and Relationship. He argues that social content creates awareness, SEO and AEO capture existing demand, and newsletters or long-form content build long-term audience trust. Rather than treating these channels as separate marketing functions, Brendan emphasizes integrating them into a content system that supports visibility, demand generation, and customer relationships over time.
+---
+
+## Expert #6 — Devin Reed
+
+- **Name:** Devin Reed
+- **Platform:** LinkedIn
+- **Role:** B2B Content Strategist | Founder of The Reeder | Executive LinkedIn Advisor
+- **Profile:** https://www.linkedin.com/in/devinreed
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Devin Reed shares practical insights about B2B content strategy, executive thought leadership, and building trust with target audiences before demand exists. His work focuses on helping B2B SaaS marketers and executives turn real expertise into durable content systems across LinkedIn, newsletters, podcasts, and YouTube. His perspective is especially useful for understanding how founder-led and executive-led content can support long-term audience building and demand generation.
+
+### Research Topics Collected
+
+- Executive Thought Leadership
+- LinkedIn Content Strategy
+- B2B Content Marketing
+- Founder-Led Content
+- Personal Branding
+- Content Hooks
+- Audience Building
+- B2B SaaS Marketing
+
+### Annotation
+
+The collected LinkedIn post focuses on how executives can overcome hesitation around publishing and turn their expertise into more engaging content. Devin emphasizes that strong thought leadership should show specific decisions, honest opinions, personal tension, and strong opening lines rather than simply claiming expertise. His framework is relevant to B2B SaaS YouTube strategy because the same principles apply to video content: strong hooks, human perspective, specific stories, and lived expertise help build trust with ideal customers before they are ready to buy.
