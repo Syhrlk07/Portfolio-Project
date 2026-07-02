@@ -81,3 +81,29 @@ Ross Simmonds is one of the leading voices in B2B content marketing, content dis
 ### Annotation
 
 The collected materials include two LinkedIn posts and one YouTube transcript discussing YouTube optimization, Reddit's growing influence on AI-powered search, and community-driven content strategies. Rather than focusing on short-term marketing tactics, Ross emphasizes building authoritative content ecosystems that improve discoverability across search engines, AI assistants, and social platforms while generating qualified B2B pipeline over time.
+---
+
+## Expert #4 — Craig Taylor
+
+- **Name:** Craig Taylor
+- **Platform:** LinkedIn
+- **Role:** CEO of ROMI | B2B Demand Generation Specialist
+- **Profile:** https://www.linkedin.com/in/craig-taylor-romi/
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Craig Taylor is a B2B demand generation specialist and CEO of ROMI, a consultancy focused on building demand generation engines for B2B technology, consulting, and IT services companies. His content emphasizes buyer intent, pipeline generation, CRM enrichment, go-to-market strategy, and the alignment of sales and marketing teams. His practical insights are especially valuable for understanding how modern B2B organizations identify, engage, and convert high-intent buyers throughout increasingly digital buying journeys.
+
+### Research Topics Collected
+
+- Buyer Intent
+- Demand Generation
+- CRM Enrichment
+- Go-to-Market Strategy
+- Revenue Operations
+- B2B Sales & Marketing Alignment
+
+### Annotation
+
+The collected materials focus on modern demand generation strategies that help B2B organizations identify high-intent buyers earlier in the purchasing journey. Craig frequently discusses buyer intent signals, CRM enrichment, visitor identification, and the importance of aligning sales and marketing around actionable customer data. Rather than relying solely on traditional lead generation, his content emphasizes improving pipeline quality through stronger intent intelligence, faster outreach, and more efficient revenue operations.
