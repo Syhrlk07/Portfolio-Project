@@ -193,3 +193,33 @@ Anthony Pierri shares practical and accessible insights about B2B positioning, p
 ### Annotation
 
 The collected LinkedIn post introduces a humorous B2B marketing glossary that explains common industry roles, phrases, and concepts for newcomers. Anthony uses simple language and humor to make topics such as positioning, differentiation, strategic narrative, ABM, intent data, and case studies easier to understand. His perspective is relevant to YouTube content strategy because clear educational content can help SaaS brands explain complex ideas, build trust with beginner audiences, and strengthen category understanding.
+---
+
+## Expert #8 — Rand Fishkin
+
+- **Name:** Rand Fishkin
+- **Platform:** LinkedIn
+- **Role:** Co-author of Zero Click Marketing | Founder of SparkToro, Moz, Snackbar Studio, and Alertmouse
+- **Profile:** https://www.linkedin.com/in/randfishkin
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Rand Fishkin is a leading voice in SEO, audience research, zero-click search, and modern content distribution. As founder of Moz and SparkToro, he provides valuable perspectives on how search behavior, platform algorithms, and audience discovery are changing. His insights are especially relevant for B2B SaaS companies that need to reduce overdependence on traditional SEO and build more resilient content strategies across owned and distributed channels.
+
+### Research Topics Collected
+
+- Zero-Click Search
+- SEO
+- Organic Traffic Decline
+- Content Marketing
+- Owned Audience
+- Audience Research
+- Product-Led Content
+- Search Visibility
+- B2B SaaS Content Strategy
+- YouTube Content Strategy
+
+### Annotation
+
+The collected LinkedIn post discusses research showing major traffic declines among formerly successful blogs, with the median blog losing 85% of its traffic over four years. Rand highlights firsthand experience, owned audience, and real product connection as the strongest predictors of content resilience. His perspective supports the need for B2B SaaS companies to build content strategies that extend beyond blog SEO, using channels like YouTube, newsletters, and community-driven distribution to create durable visibility and trust.
