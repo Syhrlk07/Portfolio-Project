@@ -163,3 +163,33 @@ Devin Reed shares practical insights about B2B content strategy, executive thoug
 ### Annotation
 
 The collected LinkedIn post focuses on how executives can overcome hesitation around publishing and turn their expertise into more engaging content. Devin emphasizes that strong thought leadership should show specific decisions, honest opinions, personal tension, and strong opening lines rather than simply claiming expertise. His framework is relevant to B2B SaaS YouTube strategy because the same principles apply to video content: strong hooks, human perspective, specific stories, and lived expertise help build trust with ideal customers before they are ready to buy.
+---
+
+## Expert #7 — Anthony Pierri
+
+- **Name:** Anthony Pierri
+- **Platform:** LinkedIn
+- **Role:** B2B Positioning Consultant | Co-founder of FletchPMM
+- **Profile:** https://www.linkedin.com/in/anthonypierri
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Anthony Pierri shares practical and accessible insights about B2B positioning, product marketing, messaging, and homepage strategy for technology startups. As co-founder of FletchPMM, he helps B2B founders clarify their positioning and communicate product value more effectively. His content is valuable for understanding how clear messaging and category language influence content strategy, especially for SaaS companies creating educational YouTube content.
+
+### Research Topics Collected
+
+- B2B Marketing
+- Positioning
+- Product Marketing
+- Differentiation
+- Category Creation
+- Strategic Narrative
+- ABM
+- Demand Generation
+- Educational Content
+- B2B SaaS Messaging
+
+### Annotation
+
+The collected LinkedIn post introduces a humorous B2B marketing glossary that explains common industry roles, phrases, and concepts for newcomers. Anthony uses simple language and humor to make topics such as positioning, differentiation, strategic narrative, ABM, intent data, and case studies easier to understand. His perspective is relevant to YouTube content strategy because clear educational content can help SaaS brands explain complex ideas, build trust with beginner audiences, and strengthen category understanding.
