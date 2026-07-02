@@ -29,6 +29,7 @@ Samu Kovács consistently shares practical insights about YouTube growth for B2B
 ### Annotation
 
 The collected posts provide practical frameworks rather than general marketing advice. They emphasize how B2B companies can use YouTube to build trust, attract ideal customers, and generate qualified leads instead of pursuing viral views.
+---
 
 ## Expert #2 — Adam Hart
 
@@ -54,3 +55,29 @@ Adam Hart shares practical insights from the production and execution side of B2
 ### Annotation
 
 The collected posts focus on practical challenges faced by modern content teams, particularly around video production and discoverability. Adam emphasizes the importance of human storytelling, strategic content creation, and strong SEO fundamentals rather than relying solely on automation or AI-driven shortcuts. His insights complement broader YouTube growth strategies by providing a production-focused perspective.
+---
+
+## Expert #3 — Ross Simmonds
+
+- **Name:** Ross Simmonds
+- **Platform:** LinkedIn & YouTube
+- **Role:** Founder & CEO of Foundation Marketing | B2B Content Marketing & Distribution Strategist
+- **Profile:** https://www.linkedin.com/in/rosssimmonds
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Ross Simmonds is one of the leading voices in B2B content marketing, content distribution, and AI-driven search visibility. His research and educational content focus on how modern buyers discover information through YouTube, Reddit, Google Search, and AI assistants. His practical frameworks help B2B SaaS companies build long-term organic growth by combining content strategy, community engagement, and search optimization. :contentReference[oaicite:0]{index=0}
+
+### Research Topics Collected
+
+- YouTube Content Strategy
+- Reddit Marketing
+- AI Search Visibility
+- Content Distribution
+- B2B Content Marketing
+- Community-Led Growth
+
+### Annotation
+
+The collected materials include two LinkedIn posts and one YouTube transcript discussing YouTube optimization, Reddit's growing influence on AI-powered search, and community-driven content strategies. Rather than focusing on short-term marketing tactics, Ross emphasizes building authoritative content ecosystems that improve discoverability across search engines, AI assistants, and social platforms while generating qualified B2B pipeline over time. :contentReference[oaicite:1]{index=1}
