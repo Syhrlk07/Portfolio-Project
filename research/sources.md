@@ -253,3 +253,33 @@ Amanda Natividad is a leading voice in zero-click marketing, audience research, 
 ### Annotation
 
 The collected LinkedIn post explains why AI visibility is becoming a leading indicator of demand. Amanda argues that when buyers ask AI tools for recommendations, comparisons, and shortlists, brands need to know whether they appear in those answers and whether they are framed accurately. Her insight supports the need for B2B SaaS companies to create public, trustworthy, and well-distributed content across channels like YouTube, search, and owned media so they can influence buyer consideration before direct website visits occur.
+---
+
+## Expert #10 — Chris Walker
+
+- **Name:** Chris Walker
+- **Platform:** LinkedIn
+- **Role:** CEO at ENCODED | Former Founder of Refine Labs | Leadership & Performance Advisor
+- **Profile:** https://www.linkedin.com/in/chriswalker171
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Chris Walker is a recognized voice in B2B demand generation, executive communication, and leadership performance. As the former founder of Refine Labs and current CEO of ENCODED, his content connects business growth, high-performance leadership, and the internal systems that shape how executives make decisions and communicate. His perspective is useful for understanding the human side of founder-led and executive-led content in B2B SaaS.
+
+### Research Topics Collected
+
+- Leadership
+- Executive Performance
+- Burnout
+- Founder-Led Content
+- Executive Thought Leadership
+- Personal Branding
+- Content Consistency
+- B2B Leadership
+- High Performance
+- Sustainable Content Strategy
+
+### Annotation
+
+The collected LinkedIn post discusses the symptoms high performers experience when they operate from urgency, anxiety, scarcity, and conditional self-worth. Chris argues that these patterns are often misidentified as productivity or discipline problems, leading people to treat symptoms rather than root causes. His perspective is relevant to YouTube content strategy because executive-led content requires clarity, consistency, emotional regulation, and sustainable leadership energy, not just tactical publishing systems.
