@@ -16,3 +16,83 @@ From early, I had never tried something I'd ever tried, even though I knew somet
 Attachment: 
 here is the prove that claude code can't be logged in before paying the subscriptions or joining the team plan. And also providing some tools that i used to done this work. Thank you!
 ![image alt](https://github.com/Syhrlk07/Portfolio-Project/blob/main/Screenshot%20(59).png?raw=true)
+
+## Research Project: YouTube Content Strategy for B2B SaaS
+
+This project focuses on collecting high-signal expert content about **YouTube Content Strategy for B2B SaaS**. The goal is to study how strong B2B marketers, video strategists, SEO experts, demand generation leaders, and content operators think about YouTube as a channel for trust-building, discoverability, demand generation, and long-term SaaS growth.
+
+Instead of collecting a large number of generic sources, I focused on 10 experts who actively practice or advise on the topics they discuss. The research is intended to support a future playbook for B2B SaaS companies that want to use YouTube more strategically.
+
+## What I Collected
+
+I collected recent expert content from LinkedIn posts manually collect their lastest post and ask codex agent and Ai gpt to assisted and one from YouTube transcript, i try to import API with 'supadata' program through python but error and i can't handle the error. So, again I'm manually collect with the data existed. Each source was organized into structured research notes with the following format:
+
+- Expert information
+- Summary
+- Key insights
+- Why this matters
+- Possible applications
+- Related topics
+
+The repository is organized as follows:
+
+- `/research/sources.md` — list of all selected experts with links, dates, roles, and brief annotations
+- `/research/linkedin-posts/` — LinkedIn research notes organized by author
+- `/research/youtube-transcripts/` — YouTube transcript research notes organized by creator/video
+- `/research/other/` — screenshots and additional supporting materials
+
+For LinkedIn posts, I manually collected the latest relevant posts and screenshots. For YouTube, I collected transcript-based research from Ross Simmonds’ video about Reddit, AI search, and B2B pipeline growth.
+
+## Experts Selected
+
+I selected 10 experts:
+
+1. **Samu Kovács** — B2B YouTube strategy, lead generation, founder storytelling, and YouTube-first content
+2. **Adam Hart** — B2B video production, storytelling, AI editing, and AI SEO
+3. **Ross Simmonds** — content distribution, Reddit marketing, AI search visibility, and YouTube strategy
+4. **Craig Taylor** — buyer intent, demand generation, CRM enrichment, and revenue operations
+5. **Brendan Hufford** — content systems, SEO, AEO, social visibility, and audience relationships
+6. **Devin Reed** — executive thought leadership, LinkedIn content strategy, and founder-led content
+7. **Anthony Pierri** — B2B positioning, product marketing, messaging, and educational content
+8. **Rand Fishkin** — zero-click search, audience research, organic traffic decline, and owned audiences
+9. **Amanda Natividad** — AI visibility, zero-click marketing, branded search, and demand generation
+10. **Chris Walker** — B2B demand generation, executive communication, leadership performance, and sustainable content creation
+
+## Why I Chose These Experts
+
+I chose these experts because they represent different parts of a complete B2B SaaS YouTube strategy.
+
+Samu Kovács was selected because he directly focuses on B2B YouTube strategy. His posts are highly relevant to the core topic because they explain how SaaS companies should think about YouTube titles, hooks, trust-building, founder storytelling, and qualified lead generation.
+
+Adam Hart was selected because YouTube strategy is not only about ideas and distribution, but also production quality. His posts provide a practical view of video editing, storytelling, AI tools, and why human creative judgment still matters in B2B video.
+
+Ross Simmonds was selected because he connects YouTube with broader content distribution. His content shows how YouTube, Reddit, Google Search, and AI tools can work together to influence buyer perception and pipeline.
+
+Craig Taylor was selected because content strategy should connect to demand generation. His insights about buyer intent and CRM enrichment help explain how content can support sales and marketing teams beyond simple awareness metrics.
+
+Brendan Hufford was selected because his framework connects virality, discovery, and relationship-building. This is useful for understanding YouTube as part of a larger content ecosystem rather than a standalone channel.
+
+Devin Reed was selected because executive-led and founder-led content are important for B2B trust. His content explains how leaders can turn expertise, opinions, and real decisions into content that feels human and credible.
+
+Anthony Pierri was selected because strong YouTube content depends on clear positioning and messaging. His work helps explain how B2B SaaS companies can simplify complex topics and communicate value clearly.
+
+Rand Fishkin was selected because his insights about zero-click search and declining blog traffic show why SaaS companies need more resilient content channels. His work supports the argument that YouTube and owned audiences can reduce dependence on traditional SEO.
+
+Amanda Natividad was selected because AI visibility is becoming an important part of demand generation. Her content shows how brands need to appear accurately in AI-generated answers before buyers even visit a website.
+
+Chris Walker was selected because B2B content is often driven by founders and executives. His content adds a leadership and performance perspective, showing that consistent executive-led content requires clarity, energy, and sustainable systems.
+
+## Key Themes Found
+
+Several themes appeared across the research:
+
+- B2B YouTube should be measured by qualified leads, trust, and pipeline influence, not only views.
+- YouTube content should be created specifically for YouTube instead of being treated as a storage place for webinars or podcasts.
+- Strong B2B videos need clear hooks, credible expertise, useful storytelling, and strong positioning.
+- AI can support production and discoverability, but it does not replace human strategy or storytelling.
+- Search behavior is changing because of AI answers, zero-click search, and declining blog traffic.
+- B2B SaaS companies need multi-channel distribution across YouTube, LinkedIn, newsletters, Reddit, search, and owned audiences.
+- Public content now influences how AI tools describe and recommend brands.
+- Founder-led and executive-led content can build trust before buyers are ready to contact sales.
+- Clear messaging and educational content make complex SaaS products easier to understand.
+- Sustainable content strategy requires systems, not random one-off publishing.
