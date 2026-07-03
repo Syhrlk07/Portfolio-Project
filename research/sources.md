@@ -223,3 +223,33 @@ Rand Fishkin is a leading voice in SEO, audience research, zero-click search, an
 ### Annotation
 
 The collected LinkedIn post discusses research showing major traffic declines among formerly successful blogs, with the median blog losing 85% of its traffic over four years. Rand highlights firsthand experience, owned audience, and real product connection as the strongest predictors of content resilience. His perspective supports the need for B2B SaaS companies to build content strategies that extend beyond blog SEO, using channels like YouTube, newsletters, and community-driven distribution to create durable visibility and trust.
+---
+
+## Expert #9 — Amanda Natividad
+
+- **Name:** Amanda Natividad
+- **Platform:** LinkedIn
+- **Role:** Founder and Co-author of Zero Click Marketing | Chief Evangelist at SparkToro
+- **Profile:** https://www.linkedin.com/in/amandanat
+- **Research Date:** July 3, 2026
+
+### Why Selected
+
+Amanda Natividad is a leading voice in zero-click marketing, audience research, AI visibility, and modern content distribution. As Chief Evangelist at SparkToro and co-author of Zero Click Marketing, she focuses on how brands can build demand and visibility even when attribution is messy or clicks do not happen directly. Her perspective is especially relevant for B2B SaaS companies adapting their content strategies for AI-powered discovery, branded search, and multi-channel audience building.
+
+### Research Topics Collected
+
+- AI Visibility
+- Answer Engine Optimization (AEO)
+- Zero-Click Marketing
+- Demand Generation
+- Brand Visibility
+- Branded Search
+- Direct Traffic
+- B2B SaaS Content Strategy
+- YouTube Content Strategy
+- Buyer Consideration
+
+### Annotation
+
+The collected LinkedIn post explains why AI visibility is becoming a leading indicator of demand. Amanda argues that when buyers ask AI tools for recommendations, comparisons, and shortlists, brands need to know whether they appear in those answers and whether they are framed accurately. Her insight supports the need for B2B SaaS companies to create public, trustworthy, and well-distributed content across channels like YouTube, search, and owned media so they can influence buyer consideration before direct website visits occur.
