@@ -141,10 +141,19 @@ After publishing each YouTube video, document the video's key insights, audience
 
 ## Experts I Would NOT Recommend Following
 
-### [Expert Name]
+### Amanda Natividad
 
 **Reason:**  
-[Explain why this expert would not be prioritized for this specific topic.]
+Amanda Natividad provides valuable insights into AI visibility, brand discoverability, and modern demand generation. However, for the specific objective of this playbook—developing a practical YouTube content strategy for B2B SaaS—her recommendations remain relatively indirect. Most of her ideas focus on how brands are discovered through AI-assisted search experiences rather than how companies should plan, produce, distribute, and optimize YouTube content itself.
+
+This does not mean her work lacks value. Instead, I believe her expertise is better suited for a broader AI visibility or demand generation playbook rather than a playbook specifically centered on YouTube content strategy.
+
+### Rand Fishkin
+
+**Reason:**  
+Rand Fishkin offers important perspectives on the evolution of search, zero-click behavior, and AI-driven discovery. These ideas help explain the changing digital marketing landscape, but they provide limited practical guidance for designing and operating a YouTube content strategy. Compared with other experts in this repository, his recommendations contribute more to understanding market trends than to building actionable YouTube workflows, production systems, or distribution strategies.
+
+For that reason, I did not prioritize his recommendations when developing this playbook.
 
 ---
 
