@@ -11,17 +11,17 @@
 
 #### Perspective A
 
-Adam Hart argues that effective AI SEO is fundamentally good SEO. Rather than chasing AI-specific optimization tricks, companies should focus on producing valuable, educational, and human-focused content that answers real customer questions. His supporting research analyzed **873 unique buyer-intent B2B SaaS queries** and found that creator-led YouTube channels appeared in AI Overviews far more frequently than branded SaaS channels, reinforcing the importance of educational content and strong SEO fundamentals *(Source: Adam Hart, linkedin-posts/2026-06-19.md).*
+Adam Hart argues that effective AI SEO is fundamentally good SEO. Rather than chasing AI-specific optimization tricks, companies should focus on producing valuable, educational, and human-focused content that answers real customer questions. His supporting research analyzed **873 unique buyer-intent B2B SaaS queries** and found that creator-led YouTube channels appeared in AI Overviews far more frequently than branded SaaS channels, reinforcing the importance of educational content and strong SEO fundamentals *(Source: Adam Hart, linkedin-posts/adam-hart(grizzle/2026-06-19.md).*
 
 #### Perspective B
 
-Amanda Natividad recommends looking beyond traditional SEO performance and treating AI visibility as an emerging demand-generation signal. Instead of measuring only clicks or rankings, brands should monitor whether they appear in AI-generated recommendations, comparisons, and buyer shortlists because these interactions may influence purchase decisions before users ever visit the company website *(Source: Amanda Natividad, linkedin-posts/2026-07-03.md).*
+Amanda Natividad recommends looking beyond traditional SEO performance and treating AI visibility as an emerging demand-generation signal. Instead of measuring only clicks or rankings, brands should monitor whether they appear in AI-generated recommendations, comparisons, and buyer shortlists because these interactions may influence purchase decisions before users ever visit the company website *(Source: Amanda Natividad, linkedin-posts/amanda-natividad/2026-07-03.md).*
 
 #### Why I Sided With One Approach
 
 Both perspectives are valuable, but I side more closely with **Adam Hart's approach** for this playbook. His recommendation is supported by quantitative research and provides a practical execution strategy: create educational, human-focused content that answers buyer questions. I believe strong SEO fundamentals naturally strengthen AI visibility over time, whereas AI visibility alone is still an emerging signal that is harder to measure consistently.
 
-Amanda's perspective remains important, but I view AI visibility as an additional measurement layer rather than the primary content strategy *(Sources: Adam Hart, linkedin-posts/2026-06-19.md; Amanda Natividad, linkedin-posts/2026-07-03.md).*
+Amanda's perspective remains important, but I view AI visibility as an additional measurement layer rather than the primary content strategy *(Sources: Adam Hart, linkedin-posts/adam-hart(grizzle)/2026-06-19.md; Amanda Natividad, linkedin-posts/amanda-natividad/2026-07-03.md).*
 
 **My Position:**  
 I prioritize building genuinely helpful, search-intent-driven educational content first, then use AI visibility as a complementary metric to evaluate whether that content is reaching buyers across AI-assisted discovery experiences.
@@ -32,17 +32,17 @@ I prioritize building genuinely helpful, search-intent-driven educational conten
 
 #### Perspective A
 
-Brendan Hufford emphasizes building a sustainable content ecosystem where content creates long-term discoverability, relationships, and trust. His framework focuses on balancing multiple content outcomes rather than optimizing every asset directly for immediate lead generation *(Source: Brendan Hufford, linkedin-posts/2026-06-24.md).*
+Brendan Hufford emphasizes building a sustainable content ecosystem where content creates long-term discoverability, relationships, and trust. His framework focuses on balancing multiple content outcomes rather than optimizing every asset directly for immediate lead generation *(Source: Brendan Hufford, linkedin-posts/brendan-hufford/2026-06-24.md).*
 
 #### Perspective B
 
-Samu Kovács recommends treating YouTube as a dedicated customer acquisition system. Instead of uploading content simply to educate or archive knowledge, companies should intentionally build YouTube around search-based videos, algorithm-based videos, and bottom-of-funnel videos that generate qualified leads and measurable pipeline *(Source: Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
+Samu Kovács recommends treating YouTube as a dedicated customer acquisition system. Instead of uploading content simply to educate or archive knowledge, companies should intentionally build YouTube around search-based videos, algorithm-based videos, and bottom-of-funnel videos that generate qualified leads and measurable pipeline *(Source: Samu Kovács, youtube-transcripts/samu-kovacs/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 #### Why I Sided With One Approach
 
 Both approaches provide valuable insights, but I side with **Samu Kovács' approach** for this playbook. Since the objective of this playbook is to develop a practical YouTube strategy for B2B SaaS, I believe YouTube should be designed as a customer acquisition channel with clear business outcomes rather than functioning primarily as a long-term content repository.
 
-Brendan's framework remains useful because sustainable content ecosystems are important. However, I see that philosophy as supporting the strategy rather than replacing a structured acquisition system *(Sources: Brendan Hufford, linkedin-posts/2026-06-24.md; Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
+Brendan's framework remains useful because sustainable content ecosystems are important. However, I see that philosophy as supporting the strategy rather than replacing a structured acquisition system *(Sources: Brendan Hufford, linkedin-posts/2026-06-24.md; Samu Kovács, youtube-transcripts/samu-kovacs/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 **My Position:**  
 I prioritize building YouTube as a customer acquisition engine with measurable pipeline impact, while using Brendan Hufford's ecosystem thinking as a supporting principle for long-term content sustainability.
@@ -53,17 +53,17 @@ I prioritize building YouTube as a customer acquisition engine with measurable p
 
 #### Perspective A
 
-Adam Hart argues that AI should be treated as a productivity tool rather than a replacement for experienced human creators. Based on his testing of multiple AI video editing tools, he found that AI still struggles to replicate uniquely human capabilities such as storytelling, creative judgment, and editorial decision-making. While AI can significantly improve repetitive production tasks, final content quality still depends on human expertise *(Source: Adam Hart, linkedin-posts/2026-06-19(2).md).*
+Adam Hart argues that AI should be treated as a productivity tool rather than a replacement for experienced human creators. Based on his testing of multiple AI video editing tools, he found that AI still struggles to replicate uniquely human capabilities such as storytelling, creative judgment, and editorial decision-making. While AI can significantly improve repetitive production tasks, final content quality still depends on human expertise *(Source: Adam Hart, linkedin-posts/adam-hart(grizzle)/2026-06-19(2).md).*
 
 #### Perspective B
 
-Samu Kovács emphasizes building efficient content production systems that allow companies to consistently publish YouTube content at scale. His framework encourages reducing operational workload through standardized production processes, enabling founders to focus primarily on recording while the production system handles the remaining workflow *(Source: Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
+Samu Kovács emphasizes building efficient content production systems that allow companies to consistently publish YouTube content at scale. His framework encourages reducing operational workload through standardized production processes, enabling founders to focus primarily on recording while the production system handles the remaining workflow *(Source: Samu Kovács, youtube-transcripts/samu-kovacs/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 #### Why I Sided With One Approach
 
 Both experts acknowledge the importance of efficiency, but I side more closely with **Adam Hart's approach**. Throughout the research, one theme consistently appeared: successful B2B YouTube content is built on credibility, expertise, and authentic storytelling rather than production speed alone. AI and standardized workflows are valuable for increasing productivity, but they should support—not replace—human editorial judgment and subject-matter expertise.
 
-For this playbook, I believe production systems should be designed to remove repetitive work while preserving the uniquely human elements that build trust with B2B audiences *(Sources: Adam Hart, linkedin-posts/2026-06-19(2).md; Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
+For this playbook, I believe production systems should be designed to remove repetitive work while preserving the uniquely human elements that build trust with B2B audiences *(Sources: Adam Hart, linkedin-posts/2026-06-19(2).md; Samu Kovács, youtube-transcripts/samu-kovacs/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 **My Position:**  
 I recommend using AI and standardized production workflows to improve efficiency, while keeping strategic thinking, storytelling, and editorial decisions under human control.
@@ -75,7 +75,7 @@ I recommend using AI and standardized production workflows to improve efficiency
 ### Rejected Idea #1
 
 **Idea:**  
-Prioritize Reddit as a primary content distribution and customer acquisition channel *(Source: Ross Simmonds, youtube-transcripts/2the-reddit-advantage-how-to-steal-competitor-leads.md).*
+Prioritize Reddit as a primary content distribution and customer acquisition channel *(Source: Ross Simmonds, youtube-transcripts/ross-simmonds/the-reddit-advantage-how-to-steal-competitor-leads.md).*
 
 **Why I Rejected It:**  
 Ross presents a compelling case that Reddit is becoming increasingly influential for AI Search, buyer research, and B2B demand generation. However, the primary objective of this playbook is to develop a practical YouTube content strategy for B2B SaaS companies. While Reddit can effectively support content distribution and community engagement, making it a primary acquisition channel would shift the focus away from YouTube. Instead, I chose to treat Reddit as a complementary distribution channel rather than a core component of the playbook.
@@ -85,7 +85,7 @@ Ross presents a compelling case that Reddit is becoming increasingly influential
 ### Rejected Idea #2
 
 **Idea:**  
-Rely on AI video editing tools as the primary solution for content production *(Source: Adam Hart, linkedin-posts/2026-06-19(2).md).*
+Rely on AI video editing tools as the primary solution for content production *(Source: Adam Hart, linkedin-posts/adam-hart(grizzle)/2026-06-19(2).md).*
 
 **Why I Rejected It:**  
 Although AI tools significantly improve efficiency in repetitive production tasks, the research consistently indicates that AI still struggles with storytelling, editorial judgment, and authentic communication. Because this playbook prioritizes credibility, educational value, and long-term trust with B2B audiences, I decided not to position AI as the primary production solution. Instead, AI is recommended only as a supporting productivity tool while strategic thinking, storytelling, and editorial decisions remain under human control.
@@ -135,9 +135,9 @@ For that reason, I did not prioritize his recommendations when developing this p
 
 ## Sources
 
-- Adam Hart — LinkedIn Research Note — `linkedin-posts/2026-06-19.md`
-- Adam Hart — LinkedIn Research Note — `linkedin-posts/2026-06-19(2).md`
-- Amanda Natividad — LinkedIn Research Note — `linkedin-posts/2026-07-03.md`
-- Brendan Hufford — LinkedIn Research Note — `linkedin-posts/2026-06-24.md`
-- Ross Simmonds — YouTube Research Note — `youtube-transcripts/the-reddit-advantage-how-to-steal-competitor-leads.md`
-- Samu Kovács — YouTube Research Note — `youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md`
+- Adam Hart — LinkedIn Research Note — `linkedin-posts/adam-hart(grizzle)/2026-06-19.md`
+- Adam Hart — LinkedIn Research Note — `linkedin-posts/adam-hart(grizzle)/2026-06-19(2).md`
+- Amanda Natividad — LinkedIn Research Note — `linkedin-posts/amanda-natividad/2026-07-03.md`
+- Brendan Hufford — LinkedIn Research Note — `linkedin-posts/brendan-hufford/2026-06-24.md`
+- Ross Simmonds — YouTube Research Note — `youtube-transcripts/ross-simmonds/the-reddit-advantage-how-to-steal-competitor-leads.md`
+- Samu Kovács — YouTube Research Note — `youtube-transcripts/samu-kovacs/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md`
