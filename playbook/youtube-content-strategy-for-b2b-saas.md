@@ -61,28 +61,30 @@ I prioritize building YouTube as a customer acquisition engine with measurable p
 
 ---
 
-### Disagreement #3 — [Topic]
+### Disagreement #3 — Human Expertise vs AI-Assisted Content Production
 
 #### Perspective A
 
-[What Expert A believes or recommends.]
+Adam Hart argues that AI should be treated as a productivity tool rather than a replacement for experienced human creators. Based on his testing of multiple AI video editing tools, he found that AI still struggles to replicate uniquely human capabilities such as storytelling, creative judgment, and editorial decision-making. While AI can significantly improve repetitive production tasks, final content quality still depends on human expertise.
 
-**Source:** [Expert Name] — [Platform / Post / Video]  
-**Link:** [Source URL]
+**Source:** Adam Hart — LinkedIn Post: *AI Video Editing & Storytelling*  
+**Link:** https://www.linkedin.com/posts/thedigitalcreative_ai-video-editing-post
 
 #### Perspective B
 
-[What Expert B believes or recommends.]
+Samu Kovács emphasizes building efficient content production systems that allow companies to consistently publish YouTube content at scale. His framework encourages reducing operational workload through standardized production processes, enabling founders to focus primarily on recording while the production system handles the remaining workflow.
 
-**Source:** [Expert Name] — [Platform / Post / Video]  
-**Link:** [Source URL]
+**Source:** Samu Kovács — YouTube: *The NEW Way to Generate B2B Leads From YouTube in 2026*  
+**Link:** https://youtu.be/oKF8Ah7IS7A?si=j2Mnu5k-pKeJ9USj
 
 #### Why I Sided With One Approach
 
-[Explain which approach I currently favor and why.]
+Both experts acknowledge the importance of efficiency, but I side more closely with **Adam Hart's approach**. Throughout the research, one theme consistently appeared: successful B2B YouTube content is built on credibility, expertise, and authentic storytelling rather than production speed alone. AI and standardized workflows are valuable for increasing productivity, but they should support—not replace—human editorial judgment and subject-matter expertise.
+
+For this playbook, I believe production systems should be designed to remove repetitive work while preserving the uniquely human elements that build trust with B2B audiences.
 
 **My Position:**  
-[Brief conclusion.]
+I recommend using AI and standardized production workflows to improve efficiency, while keeping strategic thinking, storytelling, and editorial decisions under human control.
 
 ---
 
