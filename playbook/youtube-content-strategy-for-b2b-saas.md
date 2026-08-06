@@ -131,9 +131,11 @@ After publishing each YouTube video, document the video's key insights, audience
 
 ## Weaknesses of This Playbook
 
-- [Limitation or weakness #1]
-- [Limitation or weakness #2]
-- [Limitation or weakness #3]
+- **This playbook is primarily based on expert opinions and practical experiences rather than controlled empirical studies.** While many recommendations come from experienced practitioners with real-world case studies, most sources do not provide rigorous experimental evidence or comparable performance data across different B2B industries.
+
+- **The playbook assumes that companies have the resources to consistently produce high-quality educational YouTube content.** Smaller teams or early-stage startups may face limitations in time, production capacity, subject-matter expertise, or budget, making some recommendations difficult to implement consistently.
+
+- **Most recommendations were collected from experts who primarily operate in B2B SaaS and founder-led marketing environments.** As a result, some strategies may not transfer equally well to companies with different business models, target audiences, or marketing objectives without additional validation.
 
 ---
 
