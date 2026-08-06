@@ -11,10 +11,7 @@
 
 #### Perspective A
 
-Adam Hart argues that companies should not chase AI-specific ranking tricks. Instead, they should focus on strong SEO fundamentals by creating valuable, educational, and human-focused content around real customer questions. His research also shows that creator-led educational content currently appears far more often in AI Overviews than branded SaaS channels.
-
-**Source:** Adam Hart (Grizzle) — LinkedIn Post: *AI SEO & B2B YouTube*  
-**Link:** https://www.linkedin.com/posts/thedigitalcreative_hearing-more-people-talk-about-how-to-get-activity-7471185424405872640-blbv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKJLW0BxMcQNT5dxrRxqKwo6AfeHtgRbhg
+Adam Hart argues that effective AI SEO is fundamentally good SEO. Rather than chasing AI-specific optimization tricks, companies should focus on producing valuable, educational, and human-focused content that answers real customer questions. His supporting research analyzed **873 unique buyer-intent B2B SaaS queries** and found that creator-led YouTube channels appeared in AI Overviews far more frequently than branded SaaS channels, reinforcing the importance of educational content and strong SEO fundamentals.(Source: Adam Hart (Grizzle), https://www.linkedin.com/posts/thedigitalcreative_hearing-more-people-talk-about-how-to-get-activity-7471185424405872640-blbv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKJLW0BxMcQNT5dxrRxqKwo6AfeHtgRbhg published 19.06.2026)
 
 #### Perspective B
 
