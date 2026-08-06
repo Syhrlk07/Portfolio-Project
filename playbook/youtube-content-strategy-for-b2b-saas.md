@@ -11,7 +11,7 @@
 
 #### Perspective A
 
-Adam Hart argues that effective AI SEO is fundamentally good SEO. Rather than chasing AI-specific optimization tricks, companies should focus on producing valuable, educational, and human-focused content that answers real customer questions. His supporting research analyzed **873 unique buyer-intent B2B SaaS queries** and found that creator-led YouTube channels appeared in AI Overviews far more frequently than branded SaaS channels, reinforcing the importance of educational content and strong SEO fundamentals **(Source: Adam Hart, linkedin-posts/2026-06-19.md).**
+Adam Hart argues that effective AI SEO is fundamentally good SEO. Rather than chasing AI-specific optimization tricks, companies should focus on producing valuable, educational, and human-focused content that answers real customer questions. His supporting research analyzed **873 unique buyer-intent B2B SaaS queries** and found that creator-led YouTube channels appeared in AI Overviews far more frequently than branded SaaS channels, reinforcing the importance of educational content and strong SEO fundamentals *(Source: Adam Hart, linkedin-posts/2026-06-19.md).*
 
 #### Perspective B
 
