@@ -76,3 +76,4 @@ As AI-powered search becomes a major source of product discovery, B2B buyers inc
 - **02:33–03:20** — AI platforms such as ChatGPT, Claude, Perplexity, and Grok frequently reference Reddit discussions when generating responses, making community sentiment highly influential.
 - **03:26–04:10** — Businesses should monitor AI referral traffic and understand that brand mentions inside AI-generated answers may be more valuable than traditional website clicks.
 - **04:11–04:44** — Investing in Reddit as a long-term community strategy can improve brand perception, shorten B2B sales cycles, and contribute to stronger marketing pipeline performance.
+![image alt](https://github.com/Syhrlk07/Portfolio-Project/blob/36bdf0dc83ad7bbd45a0dc76853e5874d2ad3299/research/other/ross-simmonds-youtube-thumbnail.png)
