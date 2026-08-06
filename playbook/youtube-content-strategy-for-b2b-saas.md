@@ -118,15 +118,14 @@ Although AI tools significantly improve efficiency in repetitive production task
 
 ## My Original Ideas
 
-### Original Idea #1
-
-**Idea:** [Your original idea]
+**Idea:**  
+Create a **Content Evidence Loop** where every published YouTube video automatically generates reusable research assets for future content planning. Instead of treating each video as a standalone marketing asset, every production should produce structured outputs (key insights, audience questions, objections, successful hooks, and distribution performance) that are stored in an internal knowledge repository and reused to improve future videos.
 
 **Why I Think It Could Work:**  
-[Explain the reasoning.]
+Throughout the research, many experts emphasize creating educational content, measuring performance, distributing content across multiple channels, and building long-term assets. However, none of the sources explicitly recommend transforming completed YouTube videos into an internal evidence library for continuous strategy improvement. I believe this creates a feedback loop where every published video not only generates leads, but also improves future content decisions by capturing reusable knowledge from production, audience feedback, and performance data.
 
 **How It Could Be Applied:**  
-[Brief practical explanation.]
+After publishing each YouTube video, document the video's key insights, audience comments, recurring questions, engagement patterns, conversion performance, and distribution results in a structured research repository. Use this repository during future content planning to identify proven topics, refine messaging, avoid repeating unsuccessful ideas, and continuously improve the overall YouTube strategy.
 
 ---
 
