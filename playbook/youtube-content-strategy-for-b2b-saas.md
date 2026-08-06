@@ -34,28 +34,30 @@ I prioritize building genuinely helpful, search-intent-driven educational conten
 
 ---
 
-### Disagreement #2 — [Topic]
+### Disagreement #2 — YouTube as a Content Library vs YouTube as a Customer Acquisition Engine
 
 #### Perspective A
 
-[What Expert A believes or recommends.]
+Brendan Hufford emphasizes building a sustainable content ecosystem where content creates long-term discoverability, relationships, and trust. His framework focuses on balancing multiple content outcomes rather than optimizing every asset directly for immediate lead generation.
 
-**Source:** [Expert Name] — [Platform / Post / Video]  
-**Link:** [Source URL]
+**Source:** Brendan Hufford — LinkedIn Post: *Content Strategy Framework*  
+**Link:** https://www.linkedin.com/posts/brendanhufford_
 
 #### Perspective B
 
-[What Expert B believes or recommends.]
+Samu Kovács recommends treating YouTube as a dedicated customer acquisition system. Instead of uploading content simply to educate or archive knowledge, companies should intentionally build YouTube around search-based videos, algorithm-based videos, and bottom-of-funnel videos that generate qualified leads and measurable pipeline.
 
-**Source:** [Expert Name] — [Platform / Post / Video]  
-**Link:** [Source URL]
+**Source:** Samu Kovács — YouTube: *The NEW Way to Generate B2B Leads From YouTube in 2026*  
+**Link:** https://youtu.be/oKF8Ah7IS7A?si=j2Mnu5k-pKeJ9USj
 
 #### Why I Sided With One Approach
 
-[Explain which approach I currently favor and why.]
+Both approaches provide valuable insights, but I side with **Samu Kovács' approach** for this playbook. Since the objective of this playbook is to develop a practical YouTube strategy for B2B SaaS, I believe YouTube should be designed as a customer acquisition channel with clear business outcomes rather than functioning primarily as a long-term content repository.
+
+Brendan's framework remains useful because sustainable content ecosystems are important. However, I see that philosophy as supporting the strategy rather than replacing a structured acquisition system.
 
 **My Position:**  
-[Brief conclusion.]
+I prioritize building YouTube as a customer acquisition engine with measurable pipeline impact, while using Brendan Hufford's ecosystem thinking as a supporting principle for long-term content sustainability.
 
 ---
 
