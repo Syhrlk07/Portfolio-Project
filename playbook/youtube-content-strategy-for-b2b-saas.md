@@ -36,13 +36,13 @@ Brendan Hufford emphasizes building a sustainable content ecosystem where conten
 
 #### Perspective B
 
-Samu Kovács recommends treating YouTube as a dedicated customer acquisition system. Instead of uploading content simply to educate or archive knowledge, companies should intentionally build YouTube around search-based videos, algorithm-based videos, and bottom-of-funnel videos that generate qualified leads and measurable pipeline *(Source: Samu Kovács, youtube-transcripts/2026-01-09.md).*
+Samu Kovács recommends treating YouTube as a dedicated customer acquisition system. Instead of uploading content simply to educate or archive knowledge, companies should intentionally build YouTube around search-based videos, algorithm-based videos, and bottom-of-funnel videos that generate qualified leads and measurable pipeline *(Source: Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 #### Why I Sided With One Approach
 
 Both approaches provide valuable insights, but I side with **Samu Kovács' approach** for this playbook. Since the objective of this playbook is to develop a practical YouTube strategy for B2B SaaS, I believe YouTube should be designed as a customer acquisition channel with clear business outcomes rather than functioning primarily as a long-term content repository.
 
-Brendan's framework remains useful because sustainable content ecosystems are important. However, I see that philosophy as supporting the strategy rather than replacing a structured acquisition system *(Sources: Brendan Hufford, linkedin-posts/2026-06-24.md; Samu Kovács, youtube-transcripts/2026-01-09.md).*
+Brendan's framework remains useful because sustainable content ecosystems are important. However, I see that philosophy as supporting the strategy rather than replacing a structured acquisition system *(Sources: Brendan Hufford, linkedin-posts/2026-06-24.md; Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 **My Position:**  
 I prioritize building YouTube as a customer acquisition engine with measurable pipeline impact, while using Brendan Hufford's ecosystem thinking as a supporting principle for long-term content sustainability.
@@ -57,13 +57,13 @@ Adam Hart argues that AI should be treated as a productivity tool rather than a 
 
 #### Perspective B
 
-Samu Kovács emphasizes building efficient content production systems that allow companies to consistently publish YouTube content at scale. His framework encourages reducing operational workload through standardized production processes, enabling founders to focus primarily on recording while the production system handles the remaining workflow *(Source: Samu Kovács, youtube-transcripts/2026-01-09.md).*
+Samu Kovács emphasizes building efficient content production systems that allow companies to consistently publish YouTube content at scale. His framework encourages reducing operational workload through standardized production processes, enabling founders to focus primarily on recording while the production system handles the remaining workflow *(Source: Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 #### Why I Sided With One Approach
 
 Both experts acknowledge the importance of efficiency, but I side more closely with **Adam Hart's approach**. Throughout the research, one theme consistently appeared: successful B2B YouTube content is built on credibility, expertise, and authentic storytelling rather than production speed alone. AI and standardized workflows are valuable for increasing productivity, but they should support—not replace—human editorial judgment and subject-matter expertise.
 
-For this playbook, I believe production systems should be designed to remove repetitive work while preserving the uniquely human elements that build trust with B2B audiences *(Sources: Adam Hart, linkedin-posts/2026-06-19(2).md; Samu Kovács, youtube-transcripts/2026-01-09.md).*
+For this playbook, I believe production systems should be designed to remove repetitive work while preserving the uniquely human elements that build trust with B2B audiences *(Sources: Adam Hart, linkedin-posts/2026-06-19(2).md; Samu Kovács, youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md).*
 
 **My Position:**  
 I recommend using AI and standardized production workflows to improve efficiency, while keeping strategic thinking, storytelling, and editorial decisions under human control.
@@ -75,7 +75,7 @@ I recommend using AI and standardized production workflows to improve efficiency
 ### Rejected Idea #1
 
 **Idea:**  
-Prioritize Reddit as a primary content distribution and customer acquisition channel *(Source: Ross Simmonds, youtube-transcripts/2026-05-25.md).*
+Prioritize Reddit as a primary content distribution and customer acquisition channel *(Source: Ross Simmonds, youtube-transcripts/2the-reddit-advantage-how-to-steal-competitor-leads.md).*
 
 **Why I Rejected It:**  
 Ross presents a compelling case that Reddit is becoming increasingly influential for AI Search, buyer research, and B2B demand generation. However, the primary objective of this playbook is to develop a practical YouTube content strategy for B2B SaaS companies. While Reddit can effectively support content distribution and community engagement, making it a primary acquisition channel would shift the focus away from YouTube. Instead, I chose to treat Reddit as a complementary distribution channel rather than a core component of the playbook.
@@ -139,5 +139,5 @@ For that reason, I did not prioritize his recommendations when developing this p
 - Adam Hart — LinkedIn Research Note — `linkedin-posts/2026-06-19(2).md`
 - Amanda Natividad — LinkedIn Research Note — `linkedin-posts/2026-07-03.md`
 - Brendan Hufford — LinkedIn Research Note — `linkedin-posts/2026-06-24.md`
-- Ross Simmonds — YouTube Research Note — `youtube-transcripts/2026-05-25.md`
-- Samu Kovács — YouTube Research Note — `youtube-transcripts/2026-01-09.md`
+- Ross Simmonds — YouTube Research Note — `youtube-transcripts/the-reddit-advantage-how-to-steal-competitor-leads.md`
+- Samu Kovács — YouTube Research Note — `youtube-transcripts/the-new-way-to-generate-b2b-leads-from-youtube-in-2026.md`
