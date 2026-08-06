@@ -92,23 +92,27 @@ I recommend using AI and standardized production workflows to improve efficiency
 
 ### Rejected Idea #1
 
-**Idea:** [Idea or recommendation]
+**Idea:**  
+Prioritize Reddit as a primary content distribution and customer acquisition channel.
 
-**Source:** [Expert Name] — [Source URL]
+**Source:** Ross Simmonds — YouTube: *The Reddit Advantage: How to Steal Competitor Leads*  
+**Source URL:** https://www.youtube.com/watch?v=MFpCZWbYong
 
 **Why I Rejected It:**  
-[Explain the reasoning.]
+Ross presents a compelling case that Reddit is becoming increasingly influential for AI Search, buyer research, and B2B demand generation. However, the primary objective of this playbook is to develop a practical YouTube content strategy for B2B SaaS companies. While Reddit can effectively support content distribution and community engagement, making it a primary acquisition channel would shift the focus away from YouTube. Instead, I chose to treat Reddit as a complementary distribution channel rather than a core component of the playbook.
 
 ---
 
 ### Rejected Idea #2
 
-**Idea:** [Idea or recommendation]
+**Idea:**  
+Rely on AI video editing tools as the primary solution for content production.
 
-**Source:** [Expert Name] — [Source URL]
+**Source:** Adam Hart — LinkedIn Post: *AI Video Editing & Storytelling*  
+**Source URL:** https://www.linkedin.com/posts/thedigitalcreative_ai-video-editing-post
 
 **Why I Rejected It:**  
-[Explain the reasoning.]
+Although AI tools significantly improve efficiency in repetitive production tasks, the research consistently indicates that AI still struggles with storytelling, editorial judgment, and authentic communication. Because this playbook prioritizes credibility, educational value, and long-term trust with B2B audiences, I decided not to position AI as the primary production solution. Instead, AI is recommended only as a supporting productivity tool while strategic thinking, storytelling, and editorial decisions remain under human control.
 
 ---
 
