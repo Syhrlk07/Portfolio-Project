@@ -15,7 +15,7 @@ From early, I had never tried something I'd ever tried, even though I knew somet
 
 Attachment: 
 here is the prove that claude code can't be logged in before paying the subscriptions or joining the team plan. And also providing some tools that i used to done this work. Thank you!
-![image alt](https://github.com/Syhrlk07/Portfolio-Project/blob/main/Screenshot%20(59).png?raw=true)
+![image alt](https://github.com/Syhrlk07/Portfolio-Project/blob/2379d8ac7b8a2482fee7d05586b1c80ba34703ac/research/other/Screenshot%20(59).png)
 
 ## Research Project: YouTube Content Strategy for B2B SaaS
 
