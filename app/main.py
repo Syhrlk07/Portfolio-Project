@@ -1,5 +1,6 @@
 import os
-
+import re
+import webbrowser
 
 def print_header():
     print("=" * 40)
@@ -41,7 +42,7 @@ def main():
     print_header()
 
     collections = load_collections()
-
+    
     show_collections(collections)
 
     choice = input("Choose a collection: ")
@@ -89,6 +90,14 @@ def main():
         content = file.read()
 
     print(content)
+
+    images = re.findall(r"!\[.*?\]\((.*?)\)", content)
+
+    print("\nImages Found:")
+    print(images)
+
+    for image in images:
+        webbrowser.open(image)
 
     print("\n --- END OF RESEARCH ---")
     
