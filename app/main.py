@@ -90,5 +90,7 @@ def main():
 
     print(content)
 
+    print("\n --- END OF RESEARCH ---")
+    
 
 main()
