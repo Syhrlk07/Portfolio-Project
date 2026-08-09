@@ -38,68 +38,68 @@ def show_collections(collections):
 
 
 def main():
+    while True:
+        print_header()
 
-    print_header()
+        collections = load_collections()
 
-    collections = load_collections()
-    
-    show_collections(collections)
+        show_collections(collections)
 
-    choice = input("Choose a collection: ")
+        choice = input("Choose a collection: ")
 
-    collection_index = int(choice) - 1
+        collection_index = int(choice) - 1
 
-    selected_collection = collections[collection_index]
+        selected_collection = collections[collection_index]
 
-    print(f"\nSelected Collection: {selected_collection}")
+        print(f"\nSelected Collection: {selected_collection}")
 
-    items = load_files(selected_collection)
+        items = load_files(selected_collection)
 
-    for index, item in enumerate(items, start=1):
-        print(f"{index}. {item}")
+        for index, item in enumerate(items, start=1):
+            print(f"{index}. {item}")
 
-    expert_choice = input("\nChoose an expert:  ")
+        expert_choice = input("\nChoose an expert:  ")
 
-    expert_index = int(expert_choice) - 1
+        expert_index = int(expert_choice) - 1
 
-    selected_expert = items[expert_index]
+        selected_expert = items[expert_index]
 
-    print(f"\nSelected Expert: {selected_expert}")
+        print(f"\nSelected Expert: {selected_expert}")
 
-    expert_files = load_experts_files(selected_collection, selected_expert)
+        expert_files = load_experts_files(selected_collection, selected_expert)
 
-    for index, expert_file in enumerate(expert_files, start=1):
-        print(f"{index}. {expert_file}")
+        for index, expert_file in enumerate(expert_files, start=1):
+            print(f"{index}. {expert_file}")
 
-    file_choice = input("\n Choose a research file: ")
+        file_choice = input("\n Choose a research file: ")
 
-    file_index = int(file_choice) - 1
+        file_index = int(file_choice) - 1
 
-    selected_file = expert_files[file_index]
+        selected_file = expert_files[file_index]
 
-    print(f"\nSelected Research File: {selected_file}")
+        print(f"\nSelected Research File: {selected_file}")
 
-    file_path = os.path.join(
-        "research", 
-        selected_collection, 
-        selected_expert, 
-        selected_file
-    )
+        file_path = os.path.join(
+            "research", 
+            selected_collection, 
+            selected_expert, 
+            selected_file
+        )
 
-    with open(file_path, "r", encoding="utf-8") as file:
-        content = file.read()
+        with open(file_path, "r", encoding="utf-8") as file:
+            content = file.read()
 
-    print(content)
+        print(content)
 
-    images = re.findall(r"!\[.*?\]\((.*?)\)", content)
+        images = re.findall(r"!\[.*?\]\((.*?)\)", content)
 
-    print("\nImages Found:")
-    print(images)
+        print("\nImages Found:")
+        print(images)
 
-    for image in images:
-        webbrowser.open(image)
+        for image in images:
+            webbrowser.open(image)
 
-    print("\n --- END OF RESEARCH ---")
-    
+        print("\n --- END OF RESEARCH ---")
+        input("\nPress Enter to continue...")
 
 main()
