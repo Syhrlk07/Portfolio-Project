@@ -11,7 +11,15 @@ def print_header():
 
 def load_collections():
     folder = "research"
-    return os.listdir(folder)
+
+    collections = os.listdir(folder)
+
+    collections = [
+        item for item in collections
+        if item != "other"
+    ]
+
+    return collections
 
 
 def load_files(collection):
