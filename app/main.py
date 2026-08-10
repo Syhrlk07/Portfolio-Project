@@ -45,23 +45,29 @@ def show_collections(collections):
         print()
 
 
+def choose_collection():
+    collections = load_collections()
+
+    show_collections(collections)
+
+    choice = input("Choose a collection: ")
+
+    collection_index = int(choice) - 1
+
+    selected_collection = collections[collection_index]
+
+    print(f"\nSelected Collection: {selected_collection}")
+
+    collection_path = os.path.join("research", selected_collection)
+
+    return selected_collection, collection_path
+
+
 def main():
     while True:
         print_header()
 
-        collections = load_collections()
-
-        show_collections(collections)
-
-        choice = input("Choose a collection: ")
-
-        collection_index = int(choice) - 1
-
-        selected_collection = collections[collection_index]
-
-        print(f"\nSelected Collection: {selected_collection}")
-
-        collection_path = os.path.join("research", selected_collection)
+        selected_collection, collection_path = choose_collection()
 
         if os.path.isfile(collection_path):
             print("Opening file...")
