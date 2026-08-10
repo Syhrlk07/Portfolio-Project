@@ -53,6 +53,22 @@ def main():
 
         print(f"\nSelected Collection: {selected_collection}")
 
+        collection_path = os.path.join("research", selected_collection)
+
+        if os.path.isfile(collection_path):
+            print("Opening file...")
+
+            with open(collection_path, "r", encoding="utf-8") as file:
+                content = file.read()
+
+            print(content)
+
+            input("\nPress enter to continue...")
+            continue
+
+        if os.path.isdir(collection_path):
+            print("List of all expert folders:")
+
         items = load_files(selected_collection)
 
         for index, item in enumerate(items, start=1):
