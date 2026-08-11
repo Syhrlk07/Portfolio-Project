@@ -63,6 +63,23 @@ def choose_collection():
     return selected_collection, collection_path
 
 
+def choose_expert(selected_collection):
+    items = load_files(selected_collection)
+
+    for index, item in enumerate(items, start=1):
+        print(f"{index}. {item}")
+
+    expert_choice = input("\nChoose an expert:  ")
+
+    expert_index = int(expert_choice) - 1
+
+    selected_expert = items[expert_index]
+
+    print(f"\nSelected Expert: {selected_expert}")
+
+    return selected_expert
+
+
 def main():
     while True:
         print_header()
@@ -83,18 +100,7 @@ def main():
         if os.path.isdir(collection_path):
             print("List of all expert folders:")
 
-        items = load_files(selected_collection)
-
-        for index, item in enumerate(items, start=1):
-            print(f"{index}. {item}")
-
-        expert_choice = input("\nChoose an expert:  ")
-
-        expert_index = int(expert_choice) - 1
-
-        selected_expert = items[expert_index]
-
-        print(f"\nSelected Expert: {selected_expert}")
+        selected_expert = choose_expert(selected_collection)
 
         expert_files = load_experts_files(selected_collection, selected_expert)
 
