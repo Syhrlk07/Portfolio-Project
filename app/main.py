@@ -80,6 +80,23 @@ def choose_expert(selected_collection):
     return selected_expert
 
 
+def choose_research_file(selected_collection, selected_expert):
+    expert_files = load_experts_files(selected_collection, selected_expert)
+    
+    for index, expert_file in enumerate(expert_files, start=1):
+        print(f"{index}. {expert_file}")
+    
+    file_choice = input("\n Choose a research file: ")
+    
+    file_index = int(file_choice) - 1
+    
+    selected_file = expert_files[file_index]
+    
+    print(f"\nSelected Research File: {selected_file}")
+
+    return selected_file
+
+
 def main():
     while True:
         print_header()
@@ -102,18 +119,10 @@ def main():
 
         selected_expert = choose_expert(selected_collection)
 
-        expert_files = load_experts_files(selected_collection, selected_expert)
-
-        for index, expert_file in enumerate(expert_files, start=1):
-            print(f"{index}. {expert_file}")
-
-        file_choice = input("\n Choose a research file: ")
-
-        file_index = int(file_choice) - 1
-
-        selected_file = expert_files[file_index]
-
-        print(f"\nSelected Research File: {selected_file}")
+        selected_file = choose_research_file(
+            selected_collection,
+            selected_expert
+        )
 
         file_path = os.path.join(
             "research", 
