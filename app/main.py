@@ -121,6 +121,15 @@ def read_research(selected_collection, selected_expert, selected_file):
     print("\n --- END OF RESEARCH ---")
 
 
+def read_file(file_path):
+    print("Opening file...")
+
+    with open(file_path, "r", encoding="utf-8") as file:
+        content = file.read()
+
+    print(content)
+
+
 def main():
     while True:
         print_header()
@@ -128,13 +137,8 @@ def main():
         selected_collection, collection_path = choose_collection()
 
         if os.path.isfile(collection_path):
-            print("Opening file...")
-
-            with open(collection_path, "r", encoding="utf-8") as file:
-                content = file.read()
-
-            print(content)
-
+            read_file(collection_path)
+            
             input("\nPress enter to continue...")
             continue
 
