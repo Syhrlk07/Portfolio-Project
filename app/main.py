@@ -97,6 +97,30 @@ def choose_research_file(selected_collection, selected_expert):
     return selected_file
 
 
+def read_research(selected_collection, selected_expert, selected_file):
+    file_path = os.path.join(
+        "research", 
+        selected_collection, 
+        selected_expert, 
+        selected_file
+    )
+
+    with open(file_path, "r", encoding="utf-8") as file:
+        content = file.read()
+
+    print(content)
+
+    images = re.findall(r"!\[.*?\]\((.*?)\)", content)
+
+    print("\nImages Found:")
+    print(images)
+
+    for image in images:
+        webbrowser.open(image)
+
+    print("\n --- END OF RESEARCH ---")
+
+
 def main():
     while True:
         print_header()
@@ -124,27 +148,12 @@ def main():
             selected_expert
         )
 
-        file_path = os.path.join(
-            "research", 
-            selected_collection, 
-            selected_expert, 
+        read_research(
+            selected_collection,
+            selected_expert,
             selected_file
         )
 
-        with open(file_path, "r", encoding="utf-8") as file:
-            content = file.read()
-
-        print(content)
-
-        images = re.findall(r"!\[.*?\]\((.*?)\)", content)
-
-        print("\nImages Found:")
-        print(images)
-
-        for image in images:
-            webbrowser.open(image)
-
-        print("\n --- END OF RESEARCH ---")
         input("\nPress Enter to continue...")
 
 main()
