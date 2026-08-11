@@ -45,25 +45,29 @@ def show_collections(collections):
         print()
 
 
+def get_valid_choice(options):
+    while True:
+        choice = input()
+
+        try:
+            index = int(choice) - 1
+
+            if index < 0 or index >= len(options):
+                print("Enter the correct number.")
+                continue
+
+            return index
+        
+        except ValueError:
+            print("Please enter a number.")
+
+
 def choose_collection():
     collections = load_collections()
 
     show_collections(collections)
 
-    while True:
-        choice = input("Choose a collection: ")
-
-        try:
-            collection_index = int(choice) - 1
-
-            if collection_index < 0 or collection_index >= len(collections):
-                print("Enter the correct number.")
-                continue
-
-            break
-
-        except ValueError:
-            print("Please enter a number.")
+    collection_index = get_valid_choice(collections)
 
     selected_collection = collections[collection_index]
 
@@ -80,20 +84,7 @@ def choose_expert(selected_collection):
     for index, item in enumerate(items, start=1):
         print(f"{index}. {item}")
 
-    while True:
-        expert_choice = input("\nChoose an expert:  ")
-
-        try:
-            expert_index = int(expert_choice) - 1
-
-            if expert_index < 0 or expert_index >= len(items):
-                print("Enter the correct number.")
-                continue
-
-            break
-
-        except ValueError:
-            print("Please enter a number.")
+    expert_index = get_valid_choice(items)
     
     selected_expert = items[expert_index]
 
@@ -108,20 +99,7 @@ def choose_research_file(selected_collection, selected_expert):
     for index, expert_file in enumerate(expert_files, start=1):
         print(f"{index}. {expert_file}")
 
-    while True:
-        file_choice = input("\nChoose a research file: ")
-
-        try:
-            file_index = int(file_choice) - 1
-
-            if file_index < 0 or file_index >= len(expert_files):
-                print("Enter the correct number.")
-                continue
-
-            break
-
-        except ValueError:
-            print("Please enter a number.")
+    file_index = get_valid_choice(expert_files)
 
     selected_file = expert_files[file_index]
     
