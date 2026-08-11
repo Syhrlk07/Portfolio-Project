@@ -50,9 +50,20 @@ def choose_collection():
 
     show_collections(collections)
 
-    choice = input("Choose a collection: ")
+    while True:
+        choice = input("Choose a collection: ")
 
-    collection_index = int(choice) - 1
+        try:
+            collection_index = int(choice) - 1
+
+            if collection_index < 0 or collection_index >= len(collections):
+                print("Enter the correct number.")
+                continue
+
+            break
+
+        except ValueError:
+            print("Please enter a number.")
 
     selected_collection = collections[collection_index]
 
@@ -69,10 +80,21 @@ def choose_expert(selected_collection):
     for index, item in enumerate(items, start=1):
         print(f"{index}. {item}")
 
-    expert_choice = input("\nChoose an expert:  ")
+    while True:
+        expert_choice = input("\nChoose an expert:  ")
 
-    expert_index = int(expert_choice) - 1
+        try:
+            expert_index = int(expert_choice) - 1
 
+            if expert_index < 0 or expert_index >= len(items):
+                print("Enter the correct number.")
+                continue
+
+            break
+
+        except ValueError:
+            print("Please enter a number.")
+    
     selected_expert = items[expert_index]
 
     print(f"\nSelected Expert: {selected_expert}")
@@ -85,11 +107,22 @@ def choose_research_file(selected_collection, selected_expert):
     
     for index, expert_file in enumerate(expert_files, start=1):
         print(f"{index}. {expert_file}")
-    
-    file_choice = input("\n Choose a research file: ")
-    
-    file_index = int(file_choice) - 1
-    
+
+    while True:
+        file_choice = input("\nChoose a research file: ")
+
+        try:
+            file_index = int(file_choice) - 1
+
+            if file_index < 0 or file_index >= len(expert_files):
+                print("Enter the correct number.")
+                continue
+
+            break
+
+        except ValueError:
+            print("Please enter a number.")
+
     selected_file = expert_files[file_index]
     
     print(f"\nSelected Research File: {selected_file}")
