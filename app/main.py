@@ -45,9 +45,9 @@ def show_collections(collections):
         print()
 
 
-def get_valid_choice(options):
+def get_valid_choice(prompt, options):
     while True:
-        choice = input()
+        choice = input(prompt)
 
         try:
             index = int(choice) - 1
@@ -67,7 +67,10 @@ def choose_collection():
 
     show_collections(collections)
 
-    collection_index = get_valid_choice(collections)
+    collection_index = get_valid_choice(
+        "Choose a collection: ",
+        collections
+    )
 
     selected_collection = collections[collection_index]
 
@@ -84,7 +87,10 @@ def choose_expert(selected_collection):
     for index, item in enumerate(items, start=1):
         print(f"{index}. {item}")
 
-    expert_index = get_valid_choice(items)
+    expert_index = get_valid_choice(
+        "Choose an expert: ",
+        items
+    )
     
     selected_expert = items[expert_index]
 
@@ -99,7 +105,10 @@ def choose_research_file(selected_collection, selected_expert):
     for index, expert_file in enumerate(expert_files, start=1):
         print(f"{index}. {expert_file}")
 
-    file_index = get_valid_choice(expert_files)
+    file_index = get_valid_choice(
+        "Choose a research file: ",
+        expert_files
+    )
 
     selected_file = expert_files[file_index]
     
