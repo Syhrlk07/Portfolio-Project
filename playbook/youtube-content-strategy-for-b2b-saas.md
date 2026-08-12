@@ -32,7 +32,7 @@ I prioritize building genuinely helpful, search-intent-driven educational conten
 
 #### Perspective A
 
-Brendan Hufford emphasizes building a sustainable content ecosystem where content creates long-term discoverability, relationships, and trust. His framework focuses on balancing multiple content outcomes rather than optimizing every asset directly for immediate lead generation *(Source: Brendan Hufford, linkedin-posts/brendan-hufford/2026-06-24.md).*
+Brendan Hufford emphasizes building a sustainable content ecosystem where content creates long-term discoverability, relationships, and trust. His framework focuses on balancing multiple content outcomes rather than optimizing every asset directly for immediate lead generation *(Source: Brendan Hufford, linkedin-posts/brendan-hufford/2026-06-30.md).*
 
 #### Perspective B
 
