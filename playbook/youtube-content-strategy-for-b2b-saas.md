@@ -85,7 +85,7 @@ Ross presents a compelling case that Reddit is becoming increasingly influential
 ### Rejected Idea #2
 
 **Idea:**  
-Rely on AI video editing tools as the primary solution for content production *(Source: Adam Hart, [linkedin-posts/adam-hart-(grizzle)/2026-06-19(2).md](https://github.com/Syhrlk07/Portfolio-Project/blob/09a9058a2652e8722b43a20657c187d8b4cf388a/research/linkedin-posts/adam-hart-(grizzle)/2026-06-19(2).md).*
+Rely on AI video editing tools as the primary solution for content production *(Source: Adam Hart, [linkedin-posts/adam-hart-(grizzle)/2026-06-19(2).md](https://github.com/Syhrlk07/Portfolio-Project/blob/09a9058a2652e8722b43a20657c187d8b4cf388a/research/linkedin-posts/adam-hart-(grizzle)/2026-06-19(2).md)).*
 
 **Why I Rejected It:**  
 Although AI tools significantly improve efficiency in repetitive production tasks, the research consistently indicates that AI still struggles with storytelling, editorial judgment, and authentic communication. Because this playbook prioritizes credibility, educational value, and long-term trust with B2B audiences, I decided not to position AI as the primary production solution. Instead, AI is recommended only as a supporting productivity tool while strategic thinking, storytelling, and editorial decisions remain under human control.
