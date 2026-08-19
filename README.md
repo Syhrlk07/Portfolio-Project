@@ -3,7 +3,7 @@
 1. Some tools that i installed: Cursor IDE, GitHub Desktop, Git, Claude Code.
 2. For the steps i have completed are:
 
--As a first step, after downloading all the necessary tools, I registered my first account on GitHub through the website, then also registered an account for Cursor IDE and an account for Claude Code through an application I downloaded on my laptop. After completing the registration for all the tools mentioned, I created a repository on my GitHub account and made it public, including a README.md file
+-As a first step, after downloading all the necessary tools, I registered my first account on GitHub through the website, then also registered an account for Cursor IDE and an account for Claude Code through an application I downloaded on my laptop. After completing the registration for all the tools mentioned, I created a repository on my GitHub account and made it public, including a [README.md](https://github.com/Syhrlk07/Portfolio-Project/blob/0f757e07821891ec963e4e0fa076a21fb9106c58/README.md) file
 
 -After completing the initial steps above, I opened Cursor Agents with the initial interface, intending to install the extensions instructed. In short, after encountering many issues, which I'll describe in the issues section and how I resolved them, I successfully added the Claude Code and Codex extensions to my Cursor. For Codex, I was able to log in smoothly to the welcome/main page within Cursor. Claude Code was also successfully added to Cursor, but I wasn't granted access to log in through Cursor due to the subscription account status that needed to be upgraded.
 
