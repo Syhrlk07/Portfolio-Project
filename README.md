@@ -36,10 +36,10 @@ I collected recent expert content from LinkedIn posts manually collect their las
 
 The repository is organized as follows:
 
-- `/research/sources.md` — list of all selected experts with links, dates, roles, and brief annotations
-- `/research/linkedin-posts/` — LinkedIn research notes organized by author
-- `/research/youtube-transcripts/` — YouTube transcript research notes organized by creator/video
-- `/research/other/` — screenshots and additional supporting materials
+- [`/research/sources.md`](https://github.com/Syhrlk07/Portfolio-Project/blob/2d003151fabdd4ee26ae07e23d71e09af08a9dc8/research/sources.md) — list of all selected experts with links, dates, roles, and brief annotations
+- [`/research/linkedin-posts/`](https://github.com/Syhrlk07/Portfolio-Project/tree/2d003151fabdd4ee26ae07e23d71e09af08a9dc8/research/linkedin-posts) — LinkedIn research notes organized by author
+- [`/research/youtube-transcripts/`](https://github.com/Syhrlk07/Portfolio-Project/tree/2d003151fabdd4ee26ae07e23d71e09af08a9dc8/research/youtube-transcripts) — YouTube transcript research notes organized by creator/video
+- [`/research/other/`](https://github.com/Syhrlk07/Portfolio-Project/tree/2d003151fabdd4ee26ae07e23d71e09af08a9dc8/research/other) — screenshots and additional supporting materials
 
 For LinkedIn posts, I manually collected the latest relevant posts and screenshots. For YouTube, I collected transcript-based research from Ross Simmonds’ video about Reddit, AI search, and B2B pipeline growth.
 
